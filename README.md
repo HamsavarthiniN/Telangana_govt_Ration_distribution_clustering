@@ -1,19 +1,22 @@
+Here’s your **corrected README in Markdown format**, polished for clarity and professional documentation style:
+
+```markdown
 # Telangana Government Ration Distribution Analysis, Behavioral Clustering & Anomaly Detection
 
-## Project Objective
+## 📌 Project Objective
 
-This project analyzes Telangana Government Fair Price Shop (FPS) data using machine learning to:
+This project analyzes **Telangana Government Fair Price Shop (FPS)** data using machine learning techniques to:
 
-- Segment shops based on operational behavior using **K-Means clustering**.
-- Identify unusual shop behavior using **DBSCAN**.
-- Analyze geographical distribution of shop clusters.
-- Analyze portability trends and identify **Portability Hubs**.
-- Identify shops requiring further review based on transaction-to-card behavior.
-- Support logistics and operational planning through an interactive **Streamlit dashboard**.
+- Segment shops based on operational behavior using **K-Means clustering**.  
+- Detect unusual shop behavior using **DBSCAN**.  
+- Examine the **geographical distribution** of shop clusters.  
+- Analyze portability trends and identify **Portability Hubs**.  
+- Flag shops requiring further review based on **transaction-to-card behavior**.  
+- Support logistics and operational planning through an interactive **Streamlit dashboard**.  
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Telangana_govt_Ration_distribution_clustering/
@@ -38,39 +41,56 @@ Telangana_govt_Ration_distribution_clustering/
 ├── dbscan.pkl
 ├── features.pkl
 └── cluster_profile.pkl
----
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Plotly
-- Streamlit
+```
 
 ---
 
-## Models Used
+## ⚙️ Technologies Used
+
+- **Python**  
+- **Pandas**  
+- **NumPy**  
+- **Scikit-learn**  
+- **Matplotlib**  
+- **Plotly**  
+- **Streamlit**  
+
+---
+
+## 🤖 Models Used
 
 ### Shop Behavioral Segmentation
-
-**K-Means Clustering** — used to group shops into 5 behavioral clusters based on their operational features.
+- **K-Means Clustering** — groups shops into **5 behavioral clusters** based on operational features.
 
 ### Anomaly Detection
-
-**DBSCAN** — used to identify shops with unusual behavioral patterns and classify them as noise/anomaly candidates.
+- **DBSCAN** — identifies shops with unusual behavioral patterns and classifies them as **noise/anomaly candidates**.
 
 ### Dimensionality Reduction
-
-**PCA** — used for dimensionality reduction and visualization of the shop-level feature space.
+- **PCA** — reduces dimensionality and enables visualization of the shop-level feature space.
 
 ---
 
-## Setup Instructions
+## 🚀 Setup Instructions
 
-1. **Clone the Repository**-git clone https://github.com/HamsavarthiniN/Telangana_govt_Ration_distribution_clustering.git
-2. **Create a Virtual Environment**- python -m venv myenv
-   - *Activate-Windows*-copy path of Activate.ps1 and paste in terminal  
-4. **Install Dependencies**- pip install -r requirements.txt
-5. **Run the Streamlit Dashboard**-streamlit run app.py
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/HamsavarthiniN/Telangana_govt_Ration_distribution_clustering.git
+   ```
+
+2. **Create a Virtual Environment**  
+   ```bash
+   python -m venv myenv
+   ```
+   - **Activate (Windows)**: Copy the path of `Activate.ps1` and paste it into the terminal.
+
+3. **Install Dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Streamlit Dashboard**  
+   ```bash
+   streamlit run app.py
+   ```
+```
+
