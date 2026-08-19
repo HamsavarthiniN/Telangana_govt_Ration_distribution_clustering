@@ -1,6 +1,3 @@
-Here’s your **corrected README in Markdown format**, polished for clarity and professional documentation style:
-
-```markdown
 # Telangana Government Ration Distribution Analysis, Behavioral Clustering & Anomaly Detection
 
 ## 📌 Project Objective
