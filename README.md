@@ -44,7 +44,7 @@ Telangana_govt_Ration_distribution_clustering/
 The master dataset (`master_dataset_cleaned.csv` / `.pkl`) is **not included in this repository** due to size limitations.  
 Please download it from Google Drive before running the project:
 
-👉 [Download Dataset from Google Drive]((https://drive.google.com/drive/folders/1wOfSib8fuDFQM2DwZu54QwAxyT1gTtwa?usp=drive_link))
+👉 [Download Dataset from Google Drive]([https://drive.google.com/drive/folders/1wOfSib8fuDFQM2DwZu54QwAxyT1gTtwa?usp=drive_link])
 
 After downloading, place the dataset in the project root folder:
 ---
