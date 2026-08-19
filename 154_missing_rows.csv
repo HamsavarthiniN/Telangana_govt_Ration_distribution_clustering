@@ -1,0 +1,155 @@
+distCode,distName_x,officeCode_x,officeName_x,shopNo,month,year,noOfRcs,noOfTrans,riceAfsc,riceFsc,riceAap,wheat,sugar,rgdal,kerosene,totalAmount,salt,otherShopTransCnt,rcNfsaAay,unitsNfsaAay,rcNfsaPhh,unitsNfsaPhh,totalRcNfsa,totalUnitsNfsa,rcStateAay,unitsStateAay,rcStatePhh,unitsStatePhh,rcStateAap,unitsStateAap,totalRcState,totalUnitsState,totalRcs,totalUnits,units,gasCylinders,distName,officeCode,officeName,longitude,latitude,fpsStatus,fpsType
+935,Siddipet,935009,Dubbak,3809031,10,2024,97,97,70.0,1806.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,97,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815002,10,2024,17,17,0.0,354.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815003,10,2024,48,48,35.0,996.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815023,10,2024,51,51,105.0,996.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809031,11,2024,30,30,175.0,492.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803018,1,2024,1,1,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803020,1,2024,3,3,70.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803022,1,2024,9,10,35.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803023,1,2024,110,113,105.0,1818.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,113,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803026,1,2024,53,53,0.0,906.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,53,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803027,1,2024,61,61,70.0,930.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,61,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803028,1,2024,45,45,35.0,666.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803031,1,2024,24,24,35.0,498.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533004,Armur,1804013,1,2024,4,4,70.0,18.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533004,Armur,1804020,1,2024,1,1,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533004,Armur,1804023,1,2024,7,7,0.0,138.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533004,Armur,1804050,1,2024,60,60,0.0,1165.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,60,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533011,Makloor,1811012,1,2024,4,4,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533011,Makloor,1811014,1,2024,1,1,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814026,1,2024,3,3,0.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814027,1,2024,10,10,35.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814028,1,2024,48,48,280.0,756.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814029,1,2024,4,4,0.0,78.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814033,1,2024,13,13,210.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814040,1,2024,7,7,35.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814047,1,2024,119,119,350.0,1842.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,119,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814050,1,2024,11,11,0.0,204.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815008,1,2024,4,4,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815009,1,2024,18,18,0.0,274.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815019,1,2024,86,86,0.0,1752.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,86,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815023,1,2024,6,6,70.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815025,1,2024,34,34,0.0,784.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815026,1,2024,3,3,35.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815028,1,2024,3,3,64.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815031,1,2024,67,67,210.0,1212.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815032,1,2024,51,51,140.0,1079.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815033,1,2024,33,33,105.0,642.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815034,1,2024,63,63,35.0,1254.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815035,1,2024,41,41,105.0,792.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820012,1,2024,4,4,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820013,1,2024,1,1,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820014,1,2024,27,27,0.0,480.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820015,1,2024,107,107,140.0,2382.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820021,1,2024,15,15,0.0,234.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803017,2,2024,24,24,0.0,450.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803019,2,2024,41,41,0.0,714.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803021,2,2024,16,16,0.0,282.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533003,Nandipet,1803028,2,2024,1,1,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533004,Armur,1804014,2,2024,19,19,0.0,330.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,19,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533011,Makloor,1811012,2,2024,30,30,35.0,540.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533011,Makloor,1811013,2,2024,11,11,0.0,228.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533011,Makloor,1811014,2,2024,15,15,0.0,342.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814026,2,2024,67,67,385.0,822.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814040,2,2024,33,33,0.0,600.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,33,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815008,2,2024,85,85,0.0,1638.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815024,2,2024,1,1,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815026,2,2024,1,1,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820010,2,2024,157,157,0.0,2982.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,157,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820015,2,2024,1,1,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820016,2,2024,62,62,105.0,1206.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820017,2,2024,78,78,0.0,1560.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,78,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533020,Varni,1820021,2,2024,136,136,0.0,2310.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539035,Munugode,2335013,3,2023,24,24,70.0,350.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539037,Marriguda,2337003,3,2023,150,150,385.0,2265.0,0.0,0.0,11.0,0.0,0.0,148.5,0.0,150,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539037,Marriguda,2337005,3,2023,104,104,245.0,1470.0,0.0,0.0,7.0,0.0,0.0,94.5,0.0,104,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338010,3,2023,62,62,70.0,865.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338011,3,2023,46,46,35.0,700.0,0.0,0.0,1.0,0.0,0.0,13.5,0.0,46,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338015,3,2023,40,40,105.0,485.0,0.0,0.0,3.0,0.0,0.0,40.5,0.0,40,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338022,3,2023,128,128,0.0,1775.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,128,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338027,3,2023,77,77,280.0,1125.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713017,3,2023,34,34,0.0,450.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713021,3,2023,92,92,175.0,1230.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,92,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713022,3,2023,16,16,0.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713023,3,2023,67,67,35.0,910.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713028,3,2023,54,54,0.0,715.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924013,MEDIPALLI,2713033,3,2023,1,1,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718007,3,2023,49,49,35.0,750.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718011,3,2023,28,28,35.0,415.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718012,3,2023,1,1,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718014,3,2023,14,14,0.0,185.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718016,3,2023,62,62,70.0,875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718017,3,2023,17,17,35.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718018,3,2023,12,12,70.0,135.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718024,3,2023,109,109,0.0,1385.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,109,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718025,3,2023,136,136,0.0,1690.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,136,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718026,3,2023,89,89,70.0,1175.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,89,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+924,Jagityal,924018,VELGATOOR,2718028,3,2023,3,3,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353003,3,2024,6,6,0.0,132.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353004,3,2024,2,2,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353006,3,2024,79,79,245.0,1422.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,79,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353008,3,2024,5,5,0.0,96.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353009,3,2024,2,2,0.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353014,3,2024,71,71,140.0,1248.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+923,Jogulamba Gadwal,923006,Itikyal,2606016,3,2024,11,11,35.0,240.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338027,4,2023,71,71,0.0,1212.0,0.0,0.0,4.0,0.0,0.0,54.0,0.0,71,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539037,Marriguda,2337003,5,2023,21,21,0.0,414.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338015,5,2023,62,62,175.0,966.0,0.0,0.0,5.0,0.0,0.0,67.5,0.0,62,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338027,5,2023,5,5,0.0,0.0,0.0,0.0,5.0,0.0,0.0,67.5,0.0,5,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302226,5,2023,17,17,70.0,306.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302229,5,2023,372,372,0.0,7292.0,0.0,2.0,0.0,0.0,0.0,14.0,0.0,372,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814040,5,2024,3,3,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815026,5,2024,1,1,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353006,5,2024,21,21,70.0,408.0,0.0,0.0,1.0,0.0,0.0,13.5,0.0,21,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+923,Jogulamba Gadwal,923006,Itikyal,2606016,5,2024,107,107,245.0,2184.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,107,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338009,6,2023,10,10,0.0,210.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338015,6,2023,12,12,0.0,138.0,0.0,0.0,3.0,0.0,0.0,40.5,0.0,12,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302063,6,2023,1,1,35.0,0.0,0.0,0.0,1.0,0.0,0.0,13.5,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302075,6,2023,60,60,0.0,1128.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,60,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302081,6,2023,56,56,175.0,948.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302083,6,2023,190,190,0.0,3966.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+930,Medchal,930002,Uppal-2,3302229,6,2023,66,66,0.0,1324.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533014,Bodhan,1814040,6,2024,52,52,0.0,858.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,52,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+533,Nizamabad,533015,Kotgiri,1815026,6,2024,16,16,70.0,294.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539038,Chamdur,2338010,7,2023,29,29,0.0,588.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353009,7,2024,8,8,0.0,162.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353010,7,2024,118,118,420.0,2154.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,118,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353011,7,2024,22,22,105.0,300.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353014,7,2024,32,32,0.0,594.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353008,8,2024,17,17,0.0,330.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353009,8,2024,6,6,0.0,126.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353010,8,2024,21,21,0.0,444.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809031,8,2024,1,1,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809032,8,2024,27,27,0.0,510.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809033,8,2024,8,8,35.0,138.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809034,8,2024,4,4,35.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809036,8,2024,67,67,175.0,1200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,67,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809037,8,2024,10,10,70.0,168.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809038,8,2024,2,2,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809048,8,2024,2,2,0.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935012,Jagdevpur,3812025,8,2024,8,9,35.0,72.0,0.0,0.0,2.0,0.0,0.0,27.0,0.0,9,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815001,8,2024,25,25,35.0,474.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815002,8,2024,3,3,0.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815003,8,2024,1,1,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815004,8,2024,13,13,70.0,258.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815007,8,2024,21,21,0.0,460.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815008,8,2024,1,1,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815009,8,2024,4,4,0.0,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818019,8,2024,1,1,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818020,8,2024,42,42,0.0,810.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818021,8,2024,3,3,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818022,8,2024,64,64,70.0,1098.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,64,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+539,Nalgonda,539053,Pedda Adiserlapalle,2353010,9,2024,5,5,0.0,102.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+923,Jogulamba Gadwal,923006,Itikyal,2606020,9,2024,1,1,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809033,9,2024,117,117,175.0,1974.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,117,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809034,9,2024,53,53,70.0,894.0,0.0,0.0,1.0,0.0,0.0,13.5,0.0,53,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809036,9,2024,2,2,0.0,54.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809047,9,2024,1,1,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935009,Dubbak,3809048,9,2024,10,10,35.0,150.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815001,9,2024,20,20,0.0,342.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815002,9,2024,22,22,0.0,474.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935015,Kondapak,3815008,9,2024,1,1,0.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818018,9,2024,2,2,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818020,9,2024,34,34,0.0,582.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,34,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
+935,Siddipet,935018,Mirdoddi,3818022,9,2024,2,2,0.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,,,,,,,,,,,,,,,,,,,Unknown,Unknown,Unknown,,,Unknown,Unknown
