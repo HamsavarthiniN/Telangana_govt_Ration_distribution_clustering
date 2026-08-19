@@ -88,6 +88,3 @@ Telangana_govt_Ration_distribution_clustering/
 4. **Run the Streamlit Dashboard**  
    ```bash
    streamlit run app.py
-   ```
-```
-
